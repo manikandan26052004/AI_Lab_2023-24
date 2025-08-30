@@ -46,7 +46,8 @@ bfs(visited, graph, '5')
 
 ### Output:
 
-<img width="827" height="247" alt="image" src="https://github.com/user-attachments/assets/4071145c-09c8-4915-9684-6e606aa5f038" />
+<img width="812" height="178" alt="image" src="https://github.com/user-attachments/assets/63316553-48a9-4914-b39c-d07edd155d13" />
+
 
 
 ### Result:
